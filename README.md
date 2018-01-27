@@ -1,3 +1,3 @@
-Web wrappers for Google Keep, Google Inbox. Made with [nativefier](https://github.com/jiahaog/nativefier). It seems that the whole folder are needed in order to run the .exe file.
+Standalone Windows app for Google Keep, Google Inbox. They are basically web wrapper made by [nativefier](https://github.com/jiahaog/nativefier). The whole folders need to be downloaded in order to run the .exe file inside.
 
 ![](https://i.imgur.com/Sgg1Vcj.png)
